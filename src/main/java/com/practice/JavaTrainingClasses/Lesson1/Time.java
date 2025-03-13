@@ -1,4 +1,4 @@
-package Lesson1;
+package com.practice.JavaTrainingClasses.Lesson1;
 
 public class Time {
 

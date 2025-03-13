@@ -1,4 +1,4 @@
-package com.practice.JavaTrainingClasses;
+package com.practice.JavaTrainingClasses.Assignments;
 
 import java.util.Random;
 import java.util.Scanner;
