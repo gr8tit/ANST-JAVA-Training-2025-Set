@@ -1,4 +1,4 @@
-package com.practice.restassuredApi.Assignments;
+package com.practice.JavaTrainingClasses.Assignments;
 
 
 public class Assignment1 {

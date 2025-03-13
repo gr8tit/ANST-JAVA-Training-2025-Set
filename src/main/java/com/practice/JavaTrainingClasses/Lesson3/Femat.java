@@ -1,4 +1,4 @@
-package com.practice.restassuredApi.Lesson3;
+package com.practice.JavaTrainingClasses.Lesson3;
 
 import java.util.Scanner;
 

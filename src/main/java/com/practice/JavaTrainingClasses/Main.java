@@ -1,4 +1,4 @@
-package com.practice.restassuredApi;
+package com.practice.JavaTrainingClasses;
 
 public class Main {
     public static void main(String[] args) {

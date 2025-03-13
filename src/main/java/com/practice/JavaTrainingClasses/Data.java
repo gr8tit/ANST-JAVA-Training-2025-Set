@@ -1,6 +1,5 @@
-package com.practice.restassuredApi;
+package com.practice.JavaTrainingClasses;
 
-import java.io.*;
 import java.util.*;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.practice.restassuredApi;
+package com.practice.JavaTrainingClasses;
 
 import java.util.Random;
 import java.util.Scanner;

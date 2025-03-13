@@ -1,4 +1,4 @@
-package com.practice.restassuredApi.Lesson4;
+package com.practice.JavaTrainingClasses.Lesson4;
 
 public class While {
 

@@ -1,4 +1,4 @@
-package com.practice.restassuredApi.Lesson5;
+package com.practice.JavaTrainingClasses.Lesson5;
 
 public class Cars extends Vehicles {
 
